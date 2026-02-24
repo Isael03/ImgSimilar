@@ -3,7 +3,7 @@
 Herramienta para detectar imágenes similares y mover duplicados a la papelera.
 
 ## Pasos
-- Indicar la ruta de la carpeta que contiene la imagen.
+- Indicar la ruta de la carpeta que contiene las imágenes.
 - Indicar el threshold (ver Threshold).
 - Esperar que detecte los duplicados, si no hay la app se cerrará.
 - Responder si abre el grupo de imágenes iguales o similares.
