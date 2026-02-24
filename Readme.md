@@ -39,5 +39,5 @@ Para cada grupo similar puedes:
 
 ## Generar ejecutable
 ```
-python -m PyInstaller --onefile main.py
+python -m PyInstaller --onefile img_similar.py
 ```
