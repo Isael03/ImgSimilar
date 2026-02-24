@@ -5,7 +5,7 @@ def main_window():
     folder = input("📂 Ruta de la carpeta: ").strip()
 
     try:
-        threshold = int(input("🔎 Nivel de similitud (recomendado 5) \n0 -> identicas a visualmente \n5 -> casi iguales \n>10 má permisivo: "))
+        threshold = int(input("🔎 Nivel de similitud (recomendado 5) \n0 -> Idénticas visualmente \n5 -> Casi iguales \n>10 más permisivo: "))
     except ValueError:
         print("Se usará el valor por defecto (5).")
         threshold = 5

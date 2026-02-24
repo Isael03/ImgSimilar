@@ -23,9 +23,9 @@ pip install -r requirements.txt
 
 ## Threshold
 
-* 0 → solo idénticas visualmente
-* 5 → casi iguales
-* 10 → más permisivo
+* 0 → Solo idénticas visualmente
+* 5 → Casi iguales
+* 10 → Más permisivo
 * >15 → empieza a detectar cosas distintas
 
 ## Acciones
